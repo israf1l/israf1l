@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 *   Currently working in [Kapital Bank](https://www.linkedin.com/company/kapitalbankojsc/)
 
 ## 🛠 Technical Stack
-*   Java/Python languages
+*   Java/<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> languages
 *   MySQL, PostgreSQL
 *   Spring Framework, Spring Boot
 *   GitHub/GitLab/Bitbucket
