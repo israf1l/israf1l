@@ -28,3 +28,9 @@ Here are some ideas to get you started:
 
 ### Key points
 *   Currently working in [Kapital Bank](https://www.linkedin.com/company/kapitalbankojsc/)
+
+## 🛠 Technical Stack
+*   Java/Python languages
+*   MySQL, PostgreSQL
+*   Spring Framework, Spring Boot
+*   GitHub/GitLab/Bitbucket
