@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 ## 🛠 Technical Stack
 *   Java/Python languages
 *   MySQL, PostgreSQL
-*   Spring Framework, Spring Boot
+*   Spring Framework, Spring MVC
 *   Git/GitHub/Bitbucket
